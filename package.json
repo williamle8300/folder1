@@ -1,6 +1,6 @@
 {
   "name": "folder1",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Working concept for a \"folder\"",
   "main": "index.js",
   "scripts": {
