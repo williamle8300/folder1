@@ -1,0 +1,15 @@
+{
+  "name": "folder1",
+  "version": "0.0.2",
+  "description": "Working concept for a \"folder\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "William Le",
+  "license": "ISC",
+  "dependencies": {
+    "once": "^1.3.0"
+  },
+  "repository": "http://github.com/williamle8300/folder1"
+}
